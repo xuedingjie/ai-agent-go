@@ -50,7 +50,7 @@ chore: 构建过程或辅助工具的变动
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/aigent.git
+git clone https://github.com/xuedingjie/ai-agent-go.git
 cd aigent
 
 # 安装依赖
@@ -88,7 +88,7 @@ aigent/
 
 ## 📞 联系方式
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/aigent/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/aigent/discussions)
+- **Issues**: [GitHub Issues](https://github.com/xuedingjie/ai-agent-go/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/xuedingjie/ai-agent-go/discussions)
 
 再次感谢您的贡献！

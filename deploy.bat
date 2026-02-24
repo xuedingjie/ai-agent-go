@@ -28,13 +28,13 @@ REM 设置远程仓库提示
 echo.
 echo 🔗 设置远程仓库...
 echo 请将下面的URL替换为您自己的GitHub仓库地址：
-echo git remote add origin https://github.com/yourusername/your-repo-name.git
+echo git remote add origin https://github.com/xuedingjie/ai-agent-go.git
 echo.
 
 REM 推送到GitHub提示
 echo 📤 推送到GitHub...
 echo 请依次执行以下命令：
-echo git remote add origin https://github.com/yourusername/your-repo-name.git
+echo git remote add origin https://github.com/xuedingjie/ai-agent-go.git
 echo git branch -M main
 echo git push -u origin main
 echo.

@@ -29,12 +29,12 @@ git commit -m "feat: 初始化AI Agent项目
 # 设置远程仓库（请替换为您的GitHub仓库URL）
 echo "🔗 设置远程仓库..."
 echo "请替换下面的URL为您自己的GitHub仓库地址："
-echo "git remote add origin https://github.com/yourusername/your-repo-name.git"
+echo "git remote add origin https://github.com/xuedingjie/ai-agent-go.git"
 
 # 推送到GitHub
 echo "📤 推送到GitHub..."
 echo "请执行以下命令："
-echo "git remote add origin https://github.com/yourusername/your-repo-name.git"
+echo "git remote add origin https://github.com/xuedingjie/ai-agent-go.git"
 echo "git branch -M main"
 echo "git push -u origin main"
 

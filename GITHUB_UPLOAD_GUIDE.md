@@ -13,7 +13,7 @@
 ### 2. 获取仓库URL
 创建完成后，复制仓库的HTTPS URL，格式类似：
 ```
-https://github.com/yourusername/your-repo-name.git
+https://github.com/xuedingjie/ai-agent-go.git
 ```
 
 ## 🚀 上传步骤
@@ -62,7 +62,7 @@ git commit -m "feat: 初始化AI Agent项目
 
 4. **设置远程仓库**（替换为您的实际URL）：
 ```bash
-git remote add origin https://github.com/yourusername/your-repo-name.git
+git remote add origin https://github.com/xuedingjie/ai-agent-go.git
 ```
 
 5. **设置主分支**：
@@ -97,7 +97,7 @@ git push -u origin main
 在README.md中更新徽章链接：
 ```markdown
 [![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/your-repo-name)](https://goreportcard.com/report/github.com/yourusername/your-repo-name)
-[![Build Status](https://github.com/yourusername/your-repo-name/workflows/Go%20CI/CD/badge.svg)](https://github.com/yourusername/your-repo-name/actions)
+[![Build Status](https://github.com/xuedingjie/ai-agent-go/workflows/Go%20CI/CD/badge.svg)](https://github.com/xuedingjie/ai-agent-go/actions)
 ```
 
 ### 3. 项目描述
@@ -119,7 +119,7 @@ git push -u origin main
 ### Q: 推送被拒绝？
 A: 确保远程URL正确，可能需要：
 ```bash
-git remote set-url origin https://github.com/yourusername/your-repo-name.git
+git remote set-url origin https://github.com/xuedingjie/ai-agent-go.git
 ```
 
 ### Q: 文件过大无法推送？
