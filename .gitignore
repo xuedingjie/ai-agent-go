@@ -1,0 +1,44 @@
+# 编译产物
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Go相关
+*.test
+go.work
+go.work.sum
+
+# IDE相关
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统相关
+.DS_Store
+Thumbs.db
+
+# 配置文件（包含敏感信息）
+config.json
+.env
+.env.local
+
+# 日志文件
+*.log
+
+# 临时文件
+tmp/
+temp/
+
+# 测试覆盖率
+coverage.out
+coverage.html
+
+# 依赖缓存
+vendor/
+
+# Docker相关
+.dockerignore
+docker-compose.override.yml

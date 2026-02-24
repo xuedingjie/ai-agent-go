@@ -1,0 +1,46 @@
+{
+  "server": {
+    "port": "8080",
+    "host": "localhost",
+    "read_timeout": 30,
+    "write_timeout": 30,
+    "idle_timeout": 120
+  },
+  "agent": {
+    "max_iterations": 10,
+    "timeout": 300000000000,
+    "debug": false
+  },
+  "models": [
+    {
+      "name": "openai-gpt35",
+      "type": "gpt-3.5-turbo",
+      "api_key": "your-openai-api-key-here",
+      "api_endpoint": "https://api.openai.com/v1",
+      "max_tokens": 2000,
+      "temperature": 0.7,
+      "timeout": 300,
+      "enabled": true
+    }
+  ],
+  "database": {
+    "url": "postgresql://user:password@localhost:5432/aigent",
+    "host": "localhost",
+    "port": 5432,
+    "user": "postgres",
+    "password": "your-database-password",
+    "database": "aigent",
+    "ssl_mode": "disable"
+  },
+  "logging": {
+    "level": "info",
+    "format": "text",
+    "output": "stdout"
+  },
+  "features": {
+    "enable_rag": true,
+    "enable_tools": true,
+    "enable_sse": true,
+    "enable_metrics": false
+  }
+}
