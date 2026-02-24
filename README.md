@@ -1,8 +1,8 @@
 # AI Agent 🤖
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yourusername/aigent)](https://goreportcard.com/report/github.com/yourusername/aigent)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xxxxxdjj/ai-agent-go)](https://goreportcard.com/report/github.com/xxxxxdjj/ai-agent-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/yourusername/aigent)](https://golang.org/doc/go1.19)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/xxxxxdjj/ai-agent-go)](https://golang.org/doc/go1.19)
 
 一个用Go语言实现的企业级智能AI代理系统，具备自主决策的Think-Execute循环、可扩展工具调用框架、RAG向量检索、多模型切换架构和SSE实时推送功能。
 
