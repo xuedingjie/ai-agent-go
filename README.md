@@ -1,8 +1,8 @@
 # AI Agent 🤖
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/xxxxxdjj/ai-agent-go)](https://goreportcard.com/report/github.com/xxxxxdjj/ai-agent-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/xuedingjie/ai-agent-go)](https://goreportcard.com/report/github.com/xuedingjie/ai-agent-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/xxxxxdjj/ai-agent-go)](https://golang.org/doc/go1.19)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/xuedingjie/ai-agent-go)](https://golang.org/doc/go1.19)
 
 一个用Go语言实现的企业级智能AI代理系统，具备自主决策的Think-Execute循环、可扩展工具调用框架、RAG向量检索、多模型切换架构和SSE实时推送功能。
 
@@ -104,8 +104,8 @@ AI Agent
 #### 1. 克隆项目
 
 ```bash
-git clone https://github.com/yourusername/aigent.git
-cd aigent
+git clone https://github.com/xuedingjie/ai-agent-go.git
+cd ai-agent-go
 ```
 
 #### 2. 安装依赖
@@ -505,8 +505,8 @@ LOG_OUTPUT=stdout
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/aigent.git
-cd aigent
+git clone https://github.com/xuedingjie/ai-agent-go.git
+cd ai-agent-go
 
 # 安装开发依赖
 go mod tidy
@@ -890,13 +890,13 @@ furnished to do so, subject to the following conditions:
 
 ## 📞 联系方式
 
-- **项目主页**: [https://github.com/yourusername/aigent](https://github.com/yourusername/aigent)
-- **问题反馈**: [Issues](https://github.com/yourusername/aigent/issues)
-- **讨论交流**: [Discussions](https://github.com/yourusername/aigent/discussions)
+- **项目主页**: [https://github.com/xuedingjie/ai-agent-go](https://github.com/xuedingjie/ai-agent-go)
+- **问题反馈**: [Issues](https://github.com/xuedingjie/ai-agent-go/issues)
+- **讨论交流**: [Discussions](https://github.com/xuedingjie/ai-agent-go/discussions)
 - **邮箱**: your-email@example.com
 
 ---
 
 <p align="center">
-  Made with ❤️ by the AI Agent Team
+  Made with ❤️ by the xuedingjie
 </p>
