@@ -882,18 +882,11 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 ```
 
-## 🙏 致谢
-
-- 感谢所有贡献者和支持者
-- 特别感谢开源社区的宝贵建议
-- 感谢各大AI平台提供的API支持
-
 ## 📞 联系方式
 
 - **项目主页**: [https://github.com/xuedingjie/ai-agent-go](https://github.com/xuedingjie/ai-agent-go)
 - **问题反馈**: [Issues](https://github.com/xuedingjie/ai-agent-go/issues)
 - **讨论交流**: [Discussions](https://github.com/xuedingjie/ai-agent-go/discussions)
-- **邮箱**: your-email@example.com
 
 ---
 
